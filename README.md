@@ -1,2 +1,2 @@
 # water-snake-gun-game
-I developed this game  using python visit https://souravpoddar171
+I developed this game  using python 
